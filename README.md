@@ -73,7 +73,7 @@
   <a href="mailto:thza2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-thza2002%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Thaer Zarefah">
+  <a href="www.linkedin.com/in/thaer-zarefah-635684224">
     <img src="https://img.shields.io/badge/LinkedIn-Thaer%20Zarefah-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
 </div>
